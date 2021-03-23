@@ -1,0 +1,22 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-color:wheat;
+    display: grid;
+    place-items:center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.boundry{
+    padding: 2rem;
+    width: 30vw;
+    height: 30vh;
+    padding: 2vw;
+    background-color: purple;
+    border: 8px solid red;
+}
